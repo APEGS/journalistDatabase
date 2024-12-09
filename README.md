@@ -1,1 +1,1 @@
-apegs.site/sqlproy.html
+https://apegs.site/sqlproy.html
