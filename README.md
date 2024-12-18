@@ -1,6 +1,8 @@
 ### journalistDatabase
 
-journalistDatabase was created as an open-source to analysis, practice and discover.
+journalistDatabase was created as an open-source database to analysis, practice and discover.
+
+> fue creado como una base de datos de código abierto para analizar, practicar y descubrir.
 
 ### History
 
