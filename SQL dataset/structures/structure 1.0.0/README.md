@@ -1,4 +1,4 @@
-> .[!NOTE].
+> [!NOTE]
 > Structure is the main part of the database, it holds the information to be inserted.
 
 La estructura es la parte principal de la base de datos,
