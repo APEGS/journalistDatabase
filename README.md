@@ -16,4 +16,4 @@ With journalistDatabase a new field of research and analysis opens up for us.
 
 This research, search, management, cleaning and analysis aims to make visible an important ignored niche, with which multiple conclusions can be reached.
 
-https://apegs.site/sqlproj.html
+https://journalistdatabase.org
